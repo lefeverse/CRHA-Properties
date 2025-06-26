@@ -1,0 +1,1 @@
+var json_MadisonAve_30 = {"type":"FeatureCollection","name":"MadisonAve_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Addresas":"1906-25 Madison"},"geometry":{"type":"Point","coordinates":[-78.48888183869002,38.042240964693754]}}]}
